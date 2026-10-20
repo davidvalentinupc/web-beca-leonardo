@@ -35,3 +35,6 @@
 
 /* Trabajos de estudiantes en difusión */
 .student-dissemination{margin:48px 0 38px;padding-top:28px;border-top:1px solid #d9e5e5}.student-dissemination .gallery-heading{margin-bottom:22px}.student-dissemination .gallery-heading h3{margin:10px 0}.student-dissemination .activity p{line-height:1.75}
+
+/* Testeo del prototipo en una central solar */
+.solar-test{margin:36px 0;padding:30px 34px;border-radius:16px;background:linear-gradient(135deg,#f4faf7,#edf5f6);border:1px solid #d6e6df}.solar-test h3{font-size:clamp(22px,2.5vw,32px);margin:14px 0 18px}.solar-test p{line-height:1.8;max-width:850px}.solar-test p:last-child{margin-bottom:0}@media(max-width:650px){.solar-test{padding:23px 20px}}
