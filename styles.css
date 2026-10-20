@@ -52,3 +52,6 @@
 
 /* Programa de la jornada final */
 .event-program{margin-top:24px;padding:28px;background:#f4f8f7;border:1px solid #dbe8e4;border-radius:16px}.event-program h3{margin:0 0 20px;font-size:clamp(23px,2.4vw,30px)}.event-program-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 22px}.event-program-grid>div{display:flex;align-items:baseline;gap:14px;padding:14px 12px;border-bottom:1px solid #dbe8e4}.event-program-grid b{white-space:nowrap;color:#0c5960;font-size:14px}.event-program-grid span{line-height:1.5}.event-program-note{margin:18px 0 0;font-size:13px;opacity:.72}@media(max-width:780px){.event-program{padding:20px}.event-program-grid{grid-template-columns:1fr}.event-program-grid>div{padding:12px 0}}
+
+/* Cartel de la jornada final */
+.event-poster{margin-top:26px;text-align:center}.event-poster>a{display:block;max-width:1040px;margin:auto;border-radius:16px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.12)}.event-poster img{display:block;width:100%;height:auto}.event-poster p{margin:14px 0 0;font-size:14px}.event-poster p a{font-weight:600;text-decoration:underline;text-underline-offset:3px}
