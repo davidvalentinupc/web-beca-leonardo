@@ -38,3 +38,5 @@
 
 /* Testeo del prototipo en una central solar */
 .solar-test{margin:36px 0;padding:30px 34px;border-radius:16px;background:linear-gradient(135deg,#f4faf7,#edf5f6);border:1px solid #d6e6df}.solar-test h3{font-size:clamp(22px,2.5vw,32px);margin:14px 0 18px}.solar-test p{line-height:1.8;max-width:850px}.solar-test p:last-child{margin-bottom:0}@media(max-width:650px){.solar-test{padding:23px 20px}}
+
+.solar-test-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:24px 0}.solar-test-item{padding:22px;background:#fff;border:1px solid #d8e7e5;border-radius:12px}.solar-test-item h4{font-size:19px;margin:14px 0}.solar-test-item p{font-size:14px;line-height:1.75}.solar-test-caption{font-size:13px;color:#54646a}@media(max-width:800px){.solar-test-grid{grid-template-columns:1fr}}
